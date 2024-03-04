@@ -1,0 +1,12 @@
+var favouritecolour = "blue and green";
+console.log(favouritecolour);
+var greeting = "hello world";
+console.log(greeting);
+var number = "123456789";
+console.log(number);
+var camelCase = "camelCase";
+console.log(camelCase);
+var snake_case = "snake_case";
+console.log(snake_case);
+var PascalCase = "PascalCase";
+console.log(PascalCase);
